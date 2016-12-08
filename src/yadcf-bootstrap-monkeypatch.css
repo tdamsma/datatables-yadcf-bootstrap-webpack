@@ -4,6 +4,7 @@
 
 .yadcf-filter-wrapper {
   display: flex;
+  white-space: normal;
   margin-top: 7px;
 }
 
