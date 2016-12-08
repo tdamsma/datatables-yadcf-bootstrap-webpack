@@ -5,7 +5,7 @@
   "main": "index.html",
   "scripts": {
     "dev": "webpack-dev-server --progess",
-    "build": "webpack --progress"
+    "build": "webpack --progress -p"
   },
   "author": "Thijs Damsma",
   "license": "ISC",
