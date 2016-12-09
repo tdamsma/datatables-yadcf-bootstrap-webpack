@@ -3020,9 +3020,9 @@ xtend@^4.0.0:
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/xtend/-/xtend-4.0.1.tgz#a5c6d532be656e23db820efb943a1f04998d63af"
 
-yadcf@^0.9.1:
+"yadcf@git+https://git@github.com/vedmack/yadcf#master":
   version "0.9.1"
-  resolved "https://registry.yarnpkg.com/yadcf/-/yadcf-0.9.1.tgz#7e3e175b98fd89c85eb927f34289c33dc2f1e91d"
+  resolved "git+https://git@github.com/vedmack/yadcf#61f8ee76d432f129490d77a2b96339e305f1b305"
   dependencies:
     jquery ">=1.7.0"
 

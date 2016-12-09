@@ -32,6 +32,6 @@
     "eonasdan-bootstrap-datetimepicker": "^4.17.43",
     "jquery": "2.X",
     "jquery-ui": "^1.12.1",
-    "yadcf": "^0.9.1"
+    "yadcf": "git+https://git@github.com/vedmack/yadcf#master"
   }
 }

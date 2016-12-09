@@ -21,7 +21,7 @@ import 'eonasdan-bootstrap-datetimepicker/build/css/bootstrap-datetimepicker.css
 import 'jquery-ui/ui/widgets/autocomplete';
 import 'jquery-ui/ui/widgets/slider';
 import 'eonasdan-bootstrap-datetimepicker';
-import yadcf from 'yadcf';
+import yadcf from 'yadcf/src/jquery.dataTables.yadcf.js';
 import DataTable from 'datatables.net';
 import 'datatables.net-bs/js/dataTables.bootstrap';
 import 'datatables.net-bs/css/dataTables.bootstrap.css';
